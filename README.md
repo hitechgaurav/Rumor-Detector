@@ -16,8 +16,8 @@ Prerequsites :-
             
 To install :
 
-        ^ Git Clone the repository and run server.py from save file
-        ^ Thats it. Thats the beauty of pyhton Enjoy !
+        ^ Git Clone the repository and run server.py from saved git clone file
+        ^ Thats it. Thats the beauty of python Enjoy !
    
             
             
